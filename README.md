@@ -1,42 +1,75 @@
-<h1 align="center">Hi, I'm Meng</h1>
-<h3 align="center">Computer Science Student | Problem Solver | Builder</h3>
+```bash
+$ whoami
+meng
 
----
+$ cat about.txt
+CS student · AI-curious · professional bug hunter (in training)
+```
 
-### About Me
--  CS student interested in **software engineering & AI**
--  Love solving problems and learning how things work
--  Currently working on **personal projects & coursework**
--  Learning **data structures, algorithms, and system design**
--  Fun fact: I enjoy debugging more than writing code (sometimes)
+# Hey, I'm Meng 👋
 
----
+I like taking things apart to see how they work, then putting them back together a little better.
+Right now that means software engineering, a growing obsession with AI, and a lot of debugging.
 
-###  Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,git,linux" />
-</p>
+<br>
 
----
+## 🔄 How I Debug
 
-###  Current Focus
-- Building **projects to strengthen fundamentals**
-- Improving **clean code & best practices**
-- Exploring **open-source contributions**
+```mermaid
+flowchart LR
+    A[Something breaks] --> B[Read the error]
+    B --> C[Form a guess]
+    C --> D[Test it]
+    D -->|Nope| B
+    D -->|Fixed| E[Feel unstoppable]
+    E --> A
+```
 
----
+<sub>Yes, I enjoy this loop more than I probably should.</sub>
 
-###  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MengsChill&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MengsChill&theme=tokyonight" />
-</p>
+<br>
 
----
+## 🧰 Tools I Reach For
 
-###  Connect With Me
--  Email: meng6828@gmail.com
-  
----
+<kbd> Python </kbd> <kbd> Java </kbd> <kbd> C++ </kbd> <kbd> JavaScript </kbd> <kbd> HTML </kbd> <kbd> CSS </kbd> <kbd> React </kbd> <kbd> Git </kbd> <kbd> Linux </kbd>
 
- *Always learning, always building.*
+<br>
+
+## 🎯 Leveling Up
+
+| Skill | Progress |
+| :-- | :-- |
+| Data structures & algorithms | `▰▰▰▰▰▰▱▱▱▱` |
+| Clean code & best practices | `▰▰▰▰▰▱▱▱▱▱` |
+| System design | `▰▰▰▱▱▱▱▱▱▱` |
+| Open-source contributions | `▰▰▱▱▱▱▱▱▱▱` |
+
+<sub>Honest self-assessment, updated as I grow.</sub>
+
+<br>
+
+## 💬 Ask Me About
+
+- Why a bug only shows up when you stop looking at it
+- How I'm learning algorithms and system design
+- Getting started with AI as a CS student
+
+<br>
+
+## 📈 Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=MengsChill&show_icons=true&hide_border=true&theme=transparent&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e&hide_rank=true&count_private=true" alt="GitHub stats" />
+
+<br>
+
+## 📬 Say Hi
+
+[meng6828@gmail.com](mailto:meng6828@gmail.com)
+
+<br>
+
+```python
+while True:
+    learn()
+    build()
+```
