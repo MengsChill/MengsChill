@@ -1,55 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e40af&height=200&section=header&text=Meng&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student&descAlignY=60&descSize=20" width="100%" alt="Meng" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:14b8a6,100:6366f1&height=180&section=header&text=Hi,%20I'm%20Meng&fontSize=44&fontColor=ffffff&fontAlignY=55" width="100%" alt="Hi, I'm Meng" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=480&lines=Problem+Solver;Builder;Always+learning,+always+building" alt="Typing tagline" />
-
-<br><br>
-
-![focus](https://img.shields.io/badge/focus-Software%20Engineering%20%7C%20AI-3b82f6?style=flat-square&labelColor=30363d)
-![learning](https://img.shields.io/badge/learning-DSA%20%7C%20System%20Design-3b82f6?style=flat-square&labelColor=30363d)
-![status](https://img.shields.io/badge/status-Building%20Projects-3b82f6?style=flat-square&labelColor=30363d)
-
-</div>
-
-## About Me
-
-- **Who:** CS student interested in software engineering and AI.
-- **Mindset:** I love solving problems and learning how things work.
-- **Now:** working on personal projects and coursework.
-- **Learning:** data structures, algorithms, and system design.
-- **Fun fact:** I enjoy debugging more than writing code (sometimes).
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,git,linux&theme=dark&perline=9" alt="Tech stack" />
-
-</div>
-
-## Current Focus
-
-- Building projects to strengthen fundamentals.
-- Improving clean code and best practices.
-- Exploring open-source contributions.
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MengsChill&show_icons=true&hide_border=true&theme=transparent&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e" alt="GitHub stats" />
-
-</div>
-
-## Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-meng6828@gmail.com-3b82f6?style=flat-square&logo=gmail&logoColor=white&labelColor=30363d)](mailto:meng6828@gmail.com)
+**Computer Science Student** &nbsp;·&nbsp; Problem Solver &nbsp;·&nbsp; Builder
 
 <br>
 
-<sub>Always learning, always building.</sub>
+| 🎯 Focus | 📚 Learning | 🛠️ Status |
+| :---: | :---: | :---: |
+| Software Engineering & AI | DSA & System Design | Building Projects |
+
+</div>
+
+<br>
+
+<h3 align="center">✨ About Me</h3>
+
+| | |
+| :-- | :-- |
+| 🎓 **Who** | CS student interested in software engineering and AI |
+| 🧩 **Mindset** | Love solving problems and learning how things work |
+| 🚧 **Now** | Working on personal projects and coursework |
+| 📖 **Learning** | Data structures, algorithms, and system design |
+| 🐞 **Fun fact** | I enjoy debugging more than writing code (sometimes) |
+
+<br>
+
+<h3 align="center">🧰 Tech Stack</h3>
+
+<div align="center">
+
+| Languages | Web | Tools |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark" alt="Languages" /> | <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" alt="Web" /> | <img src="https://skillicons.dev/icons?i=git,linux&theme=dark" alt="Tools" /> |
+
+</div>
+
+<br>
+
+<h3 align="center">🔭 Current Focus</h3>
+
+<div align="center">
+
+**01** Build projects to strengthen fundamentals
+<br>
+**02** Improve clean code and best practices
+<br>
+**03** Explore open-source contributions
+
+</div>
+
+<br>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MengsChill&show_icons=true&hide_border=true&theme=transparent&title_color=14b8a6&icon_color=6366f1&text_color=8b949e" alt="GitHub stats" />
+
+</div>
+
+<br>
+
+<h3 align="center">📬 Connect With Me</h3>
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-meng6828@gmail.com-14b8a6?style=flat-square&logo=gmail&logoColor=white&labelColor=30363d)](mailto:meng6828@gmail.com)
+
+<br>
+
+<sub><i>Always learning, always building.</i></sub>
 
 </div>
