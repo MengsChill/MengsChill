@@ -1,75 +1,55 @@
-```bash
-$ whoami
-meng
+<div align="center">
 
-$ cat about.txt
-CS student · AI-curious · professional bug hunter (in training)
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1e40af&height=200&section=header&text=Meng&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student&descAlignY=60&descSize=20" width="100%" alt="Meng" />
 
-# Hey, I'm Meng 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=3B82F6&center=true&vCenter=true&width=480&lines=Problem+Solver;Builder;Always+learning,+always+building" alt="Typing tagline" />
 
-I like taking things apart to see how they work, then putting them back together a little better.
-Right now that means software engineering, a growing obsession with AI, and a lot of debugging.
+<br><br>
 
-<br>
+![focus](https://img.shields.io/badge/focus-Software%20Engineering%20%7C%20AI-3b82f6?style=flat-square&labelColor=30363d)
+![learning](https://img.shields.io/badge/learning-DSA%20%7C%20System%20Design-3b82f6?style=flat-square&labelColor=30363d)
+![status](https://img.shields.io/badge/status-Building%20Projects-3b82f6?style=flat-square&labelColor=30363d)
 
-## 🔄 How I Debug
+</div>
 
-```mermaid
-flowchart LR
-    A[Something breaks] --> B[Read the error]
-    B --> C[Form a guess]
-    C --> D[Test it]
-    D -->|Nope| B
-    D -->|Fixed| E[Feel unstoppable]
-    E --> A
-```
+## About Me
 
-<sub>Yes, I enjoy this loop more than I probably should.</sub>
+- **Who:** CS student interested in software engineering and AI.
+- **Mindset:** I love solving problems and learning how things work.
+- **Now:** working on personal projects and coursework.
+- **Learning:** data structures, algorithms, and system design.
+- **Fun fact:** I enjoy debugging more than writing code (sometimes).
 
-<br>
+## Tech Stack
 
-## 🧰 Tools I Reach For
+<div align="center">
 
-<kbd> Python </kbd> <kbd> Java </kbd> <kbd> C++ </kbd> <kbd> JavaScript </kbd> <kbd> HTML </kbd> <kbd> CSS </kbd> <kbd> React </kbd> <kbd> Git </kbd> <kbd> Linux </kbd>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,git,linux&theme=dark&perline=9" alt="Tech stack" />
 
-<br>
+</div>
 
-## 🎯 Leveling Up
+## Current Focus
 
-| Skill | Progress |
-| :-- | :-- |
-| Data structures & algorithms | `▰▰▰▰▰▰▱▱▱▱` |
-| Clean code & best practices | `▰▰▰▰▰▱▱▱▱▱` |
-| System design | `▰▰▰▱▱▱▱▱▱▱` |
-| Open-source contributions | `▰▰▱▱▱▱▱▱▱▱` |
+- Building projects to strengthen fundamentals.
+- Improving clean code and best practices.
+- Exploring open-source contributions.
 
-<sub>Honest self-assessment, updated as I grow.</sub>
+## GitHub Stats
 
-<br>
+<div align="center">
 
-## 💬 Ask Me About
+<img src="https://github-readme-stats.vercel.app/api?username=MengsChill&show_icons=true&hide_border=true&theme=transparent&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e" alt="GitHub stats" />
 
-- Why a bug only shows up when you stop looking at it
-- How I'm learning algorithms and system design
-- Getting started with AI as a CS student
+</div>
+
+## Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-meng6828@gmail.com-3b82f6?style=flat-square&logo=gmail&logoColor=white&labelColor=30363d)](mailto:meng6828@gmail.com)
 
 <br>
 
-## 📈 Activity
+<sub>Always learning, always building.</sub>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MengsChill&show_icons=true&hide_border=true&theme=transparent&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e&hide_rank=true&count_private=true" alt="GitHub stats" />
-
-<br>
-
-## 📬 Say Hi
-
-[meng6828@gmail.com](mailto:meng6828@gmail.com)
-
-<br>
-
-```python
-while True:
-    learn()
-    build()
-```
+</div>
