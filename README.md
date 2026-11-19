@@ -80,19 +80,6 @@ Debugging stubborn bugs &nbsp;|&nbsp; Learning algorithms &nbsp;|&nbsp; Getting 
 
 </div>
 
-<br>
-
-<h3 align="center">GitHub Stats</h3>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MengsChill&show_icons=true&hide_border=true&theme=transparent&title_color=2563eb&icon_color=3b82f6&text_color=8b949e" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MengsChill&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=8b949e" alt="Top languages" />
-
-</div>
-
-<br>
-
 <h3 align="center">Connect With Me</h3>
 
 <div align="center">
