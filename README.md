@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2563eb,100:60a5fa&height=190&section=header&text=Meng&fontSize=58&fontColor=ffffff&fontAlignY=46&animation=fadeIn&desc=Computer%20Science%20Student&descSize=18&descAlignY=68" width="100%" alt="Meng" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2563eb,100:60a5fa&height=190&section=header&text=Meng&fontSize=58&fontColor=ffffff&fontAlignY=46&animation=fadeIn&desc=Computer%20Science%20Student&descSize=18&descAlignY=68" width="100%" alt="Chu Meng" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1100&color=2563EB&center=true&vCenter=true&width=560&lines=Problem+solver;Builder+of+small+useful+things;Learning+algorithms+and+system+design;Always+learning,+always+building" alt="Typing tagline" />
 
